@@ -1,0 +1,155 @@
+
+
+nav{
+    background-color: #ffc017;
+    display: flex;
+    align-items: center;    
+    justify-content: space-between;
+    padding: 10px 8rem;
+    border-bottom: solid 1px rgb(19, 19, 19);
+}
+
+
+
+img.medium{
+    height: 12px;
+    
+}
+div#start{
+    color: white;
+    width: 60px;
+    height: 23px;
+    background-color: rgb(19, 19, 19);
+    border-radius: 25px;
+    align-items: center;
+    
+    
+    display: flex;
+    justify-content: center;
+}
+
+    
+div.navbar{
+    display: flex;
+    gap: 12px;
+    font-size: 9px;
+    align-items: center;
+}
+div.curious{
+    
+    background-color: rgb(255, 192, 23);
+    display: flex;
+    place-content: space-between;
+    flex-direction: column;
+    padding: 2rem 8rem;
+    position: relative;
+    height: 12rem;
+    border-bottom: solid 1px rgb(19, 19, 19);
+}
+img.emme{
+    height: 16rem;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+h2{
+    font-size: 3rem;
+}
+.stories{
+    width:33%
+}
+div.startreading{
+    color: white;
+    width: 132px;
+    height: 25px;
+    background-color: rgb(19, 19, 19);
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+div.containertrending{
+    border-bottom: solid 1px;
+    padding-bottom: 25px;
+}
+    
+h3{
+    font-size: 10px;
+}
+div.numeri{
+    display: flex;
+    flex-wrap: wrap;            
+    justify-content: center;
+    padding: 0 6rem;
+    gap: 30px 0;
+    margin-top: -25px;
+}
+.trending{
+    display:flex;
+    flex: 0 0 33%;
+    gap: 12px;
+}
+div.griglia{
+    display:flex;
+    align-items: center   
+}
+div.medium{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding: 2rem 6rem;
+}
+img.loghi{
+    margin-right: 10px;
+    border-radius: 100%;
+    height: 20px;
+}
+p.autori{
+    font-size: 12px;
+}
+p.where{
+    margin-top: 7px;
+    font-size: 13px;
+}
+p.data{
+    margin-top: 10px;
+    font-size: 8px;
+}
+p.elenco{
+    font-size: 20px;
+    opacity: 0.2;
+}
+div.contenitorenotizie{
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-left: 6rem;
+    width: 60%;
+    gap: 30px;
+    
+}
+p.who{
+    display: flex;
+    align-items: center;
+    font-size: 8px;
+}
+div.notizie{
+    display: flex;
+}
+p.question{
+    margin-top: 7px;
+    font-size: 13px;
+}
+p.text{
+    font-size: 10px;
+    margin-top: 5px;
+}
+img.poster{
+    height: 80px;
+}
+div.box{
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+}
