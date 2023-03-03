@@ -1,5 +1,10 @@
 
+div.containernavbar{
+    position: sticky;
+    top: 0;    
+    z-index: 1;
 
+}
 nav{
     background-color: #ffc017;
     display: flex;
@@ -7,6 +12,7 @@ nav{
     justify-content: space-between;
     padding: 10px 8rem;
     border-bottom: solid 1px rgb(19, 19, 19);
+        
 }
 
 
